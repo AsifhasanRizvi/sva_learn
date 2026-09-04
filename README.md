@@ -1,8 +1,12 @@
 # sva_learn
-This repo is intended to store the basics of system verilog assertion, examples, practice question, gotchas and a  simple implemention.
 
+This repository is intended to store the basics of SystemVerilog Assertions (SVA), including examples, practice questions, gotchas, and a simple implementation.
 
-Reference 
-1. chip_verify
+## Status
+
+Initial project setup is in progress.
+
+## References
+
+1. ChipVerify
 2. Google Gemini chat interface
-
